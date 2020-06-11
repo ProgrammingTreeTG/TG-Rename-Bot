@@ -26,7 +26,7 @@ You can send /help for more details..."""
 1. Send me any Telegram File.
 2. Reply to that message to /rename New Name.extension.
 
-That is, It is Very easy to us TG Renamer Bot!
+That is, It is Very easy to use TG Renamer Bot!
    
 <b>♻️ Bot Developed by :</b> @ProgrammingTree
 
